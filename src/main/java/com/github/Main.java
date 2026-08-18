@@ -1,4 +1,4 @@
-package com.github.mafemont;
+package com.github;
 
 public class Main {
     public static void main(String[] args){
